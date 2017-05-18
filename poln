@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script src="C:\Практика\pr-1\poln\vers\jquery-3.2.1.min.js"></script>
+<link href="C:\Практика\pr-1\poln\vers\bootstrap-3.3.7-dist\css\bootstrap.min.css"  rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="C:\Практика\pr-1\poln\vers\style.css">
+</head>
+<title>Anidub.com</title>
+<body>
+<div class="container-fluid">  
+  <div class="row">
+   
+</div>
+
+ 	<div class="col-xs-12 col-sm-6 col-md-12 col-lg-4 block5"></div>
+ 	<div class="col-xs-12 col-sm-6 col-md-12 col-lg-4 block2"></div>
+ 	<div class="col-xs-12 col-sm-6 col-md-12 col-lg-4 block5"></div>
+
+  </div>
+</div>
+
+
+
+<h1 class="display-1"><p class="text-center"></p></h1>
+<script src="C:\Практика\pr-1\poln\vers\tether-1.3.3\dist\js\tether.min.js"></script>
+<script src="C:\Практика\pr-1\poln\vers\bootstrap-3.3.7-dist\js\bootstrap.min.js"></script>
+</body>
+</html>
