@@ -1,0 +1,35 @@
+body{
+background-color: #ffffff; 
+}
+.block1{
+background-color:  #ffffff;
+border: 1px solid black;
+height: 100px;
+}
+.block2{
+background-color: white;
+background-image: url(C:\Ïðàêòèêà\pr-1\poln\vers\123.png);
+background-size: auto;
+border: 1px solid black;
+height: 200px;
+}
+.block3{
+background-color:  #ffffff;
+border: 1px solid black;
+height: 50px;
+}
+.block4{
+background-color:  #ffffff;
+border: 1px solid black;
+height: 200px;
+}
+.block6{
+background-color:  #ffffff;
+border: 1px solid black;
+height: 200px;
+}
+.block5{
+background-color:  #ffffff;
+border: 1px solid black;
+height: 200px;
+}
