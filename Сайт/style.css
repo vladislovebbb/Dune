@@ -1,35 +1,45 @@
 body{
 background-color: #66CDAA; 
 }
+.nav{
+border: 1px solid black;	
+}
+.nav-tabs{
+border: 1px solid blue;	
+}
 .block1{
 background-color:  #BA55D3;
 border: 1px solid black;
-height: 200px;
+min-height: 200px;
+max-height: auto;
 }
 .block2{
-background-color: blue;
-background-image: url(C:\Практика\pr-4\Kotenkov\1.1\ps_dl_1\1124885.png);
-background-size: auto;
+background-color: #00CED1;
 border: 1px solid black;
-height: 200px;
+min-height: 200px;
+max-height: auto;
 }
 .block3{
 background-color:  #808080;
 border: 1px solid black;
-height: 200px;
+min-height: 200px;
+max-height: auto;
 }
 .block4{
 background-color:  #00FF00;
 border: 1px solid black;
-height: 200px;
+min-height: 200px;
+max-height: auto;
 }
 .block6{
 background-color:  #FFA500;
 border: 1px solid black;
-height: 200px;
+min-height: 200px;
+max-height: auto;
 }
 .block5{
 background-color:  #8B0000;
 border: 1px solid black;
-height: 200px;
+min-height: 200px;
+max-height: auto;
 }
